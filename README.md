@@ -1,2 +1,2 @@
 # FundaVidaECommerceAmericano
-Eset es un reposit
+- Este es un repositorio para la App de ropa Americana
